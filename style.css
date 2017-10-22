@@ -22,3 +22,23 @@ a {
     display: inline-block;
     margin: 0 15px;
 }
+#title{
+    text-transform: uppercase;
+    text-align: center;
+}
+table{
+    table-layout: fixed;
+    width: 250px;
+    text-align: center;
+}
+td{
+    border: 1px solid white;
+    padding: 10px;
+}
+.bungkus {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.foto img {
+    margin: 10px;
+}
