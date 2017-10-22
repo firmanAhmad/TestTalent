@@ -1,0 +1,24 @@
+body {
+    background-color: #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+    color: green;
+}
+h1 {
+    color:darkgray;
+    font-size: 45px;
+}
+.sub-judul {
+    color: darkblue;
+    font-size:25px; 
+}
+a {
+    color: aqua;
+}
+.menu {
+    padding: 0;
+}
+.menu li {
+    display: inline-block;
+    margin: 0 15px;
+}
