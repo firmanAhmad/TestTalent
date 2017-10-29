@@ -1,0 +1,38 @@
+body {
+    background-color: #4702e8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+    color: white;
+}
+h1 {
+    color: yellow;
+    font-size: 45px;
+}
+.sub-judul {
+    color: #4eff2b;    
+    font-size: 25px;
+}
+a {
+    color: #fff;
+}
+.menu {
+    padding: 0;
+}
+.menu li {
+    display: inline-block;
+    margin: 0 15px;
+}
+table, td {
+    border: 1px solid white;
+}
+td {
+    padding: 10px;
+    min-width: 200px;
+}
+.bungkus {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.foto img {
+    margin: 10px;
+}
